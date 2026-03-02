@@ -1,3 +1,0 @@
-npm init -y
-npm install express dotenv cors multer pdf-parse csv-parser mongoose
-npm install --save-dev nodemon
